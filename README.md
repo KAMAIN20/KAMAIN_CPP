@@ -1,0 +1,2 @@
+# KAMAIN_CPP
+CPP_CODE
